@@ -18,7 +18,7 @@ Finally, you could randomly pick up 25 train video in your new dataset and add t
 [First Task Model](https://drive.google.com/file/d/1tQls-XQsjDTEKMYrzC9mHJGAemQw9eOa/view?usp=drive_link)
 
 # Citation
-```python
+```
 @inproceedings{pan2023dfil,
   title={DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues},
   author={Pan, Kun and Yin, Yifang and Wei, Yao and Lin, Feng and Ba, Zhongjie and Liu, Zhenguang and Wang, Zhibo and Cavallaro, Lorenzo and Ren, Kui},
@@ -26,3 +26,4 @@ Finally, you could randomly pick up 25 train video in your new dataset and add t
   pages={8035--8046},
   year={2023}
 }
+```
