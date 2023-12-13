@@ -14,3 +14,5 @@ Thirdly, you can use 'get_feature.py' , 'get_image_info.py' and 'create_memory.p
 
 Finally, you could randomly pick up 25 train video in your new dataset and add them into your memery set to train new model by file 'train_CNN_SupCon_and_CE.py'.<br>
 
+# Trained Model
+[First Task Model](https://drive.google.com/file/d/1tQls-XQsjDTEKMYrzC9mHJGAemQw9eOa/view?usp=drive_link)
