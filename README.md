@@ -19,10 +19,10 @@ Finally, you could randomly pick up 25 train video in your new dataset and add t
 
 # Citation
 ```python
-@inproceedings{pan2023dfil,<br>
-  title={DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues},<br>
-  author={Pan, Kun and Yin, Yifang and Wei, Yao and Lin, Feng and Ba, Zhongjie and Liu, Zhenguang and Wang, Zhibo and Cavallaro, Lorenzo and Ren, Kui},<br>
-  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},<br>
-  pages={8035--8046},<br>
-  year={2023}<br>
+@inproceedings{pan2023dfil,
+  title={DFIL: Deepfake Incremental Learning by Exploiting Domain-invariant Forgery Clues},
+  author={Pan, Kun and Yin, Yifang and Wei, Yao and Lin, Feng and Ba, Zhongjie and Liu, Zhenguang and Wang, Zhibo and Cavallaro, Lorenzo and Ren, Kui},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={8035--8046},
+  year={2023}
 }
